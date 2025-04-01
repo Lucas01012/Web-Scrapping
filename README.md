@@ -50,18 +50,3 @@ beautifulsoup4: Para analisar o HTML da página web.
 zipfile: Para compactar os arquivos em um arquivo ZIP (biblioteca padrão do Python).
 
 os: Biblioteca padrão do Python para criar diretórios.
-
-Licença
-Este projeto está licenciado sob a MIT License. Sinta-se à vontade para fazer modificações!
-
-💡 Dica: Este projeto foi desenvolvido para automatizar o download e a compactação dos anexos do Rol de Procedimentos da ANS. Você pode adaptá-lo facilmente para baixar outros documentos ou realizar tarefas semelhantes.
-
-markdown
-Copiar
-
-### O que foi ajustado:
-1. **Melhoria na formatação**: Adicionando alguns espaçamentos e mais clareza nos títulos.
-2. **Clone o Repositório**: Incluí a instrução de como clonar o repositório, caso alguém queira usar o Git.
-3. **Licença**: Adicionei uma pequena seção sobre a licença do projeto, já que você pode querer colocar algo sobre isso no futuro.
-
-Agora o **README** está super bem formatado e explicativo! O que acha?
